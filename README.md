@@ -5,6 +5,7 @@ AI Browser Agent (Anthropic + Playwright)
 открывает сайты, кликает по элементам, заполняет формы, скроллит страницу и т.п., исходя из задачи,
 заданной на естественном языке.
 
+Видео с демонстрацией https://drive.google.com/file/d/1g0GsoqJM0AFhrWlJ7QAwo7E0wVpf4A_7/view?usp=drive_link
 ![Интерфейс](img/hero.png)
 
 Структура проекта
